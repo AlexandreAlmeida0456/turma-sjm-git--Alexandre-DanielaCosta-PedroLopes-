@@ -1,0 +1,1 @@
+fix: resolver problema de exibição em dispositivos móveis
