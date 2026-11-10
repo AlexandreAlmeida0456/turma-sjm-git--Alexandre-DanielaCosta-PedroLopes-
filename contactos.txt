@@ -1,3 +1,4 @@
 Aqui vou enumerar uma lista de contactos possiveis
 feat: adicionar sistema de autenticação de utilizadores
 feat: implementar página de perfil do utilizador
+feat: criar página inicial com apresentação do projeto
