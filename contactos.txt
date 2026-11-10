@@ -1,1 +1,2 @@
 Aqui vou enumerar uma lista de contactos possiveis
+feat: adicionar sistema de autenticação de utilizadores
