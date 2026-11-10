@@ -1,1 +1,2 @@
 fix: resolver problema de exibição em dispositivos móveis
+fix: resolver erro de carregamento de dados na API
