@@ -6,3 +6,4 @@ fix: corrigir redirecionamento após login
 fix: resolver problema de exibição em dispositivos móveis
 Commit 1
 commit 2
+commit 3
