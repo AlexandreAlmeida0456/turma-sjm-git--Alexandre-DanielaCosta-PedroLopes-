@@ -5,3 +5,4 @@ feat: criar página inicial com apresentação do projeto
 fix: corrigir redirecionamento após login
 fix: resolver problema de exibição em dispositivos móveis
 Commit 1
+commit 2
