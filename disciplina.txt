@@ -1,0 +1,7 @@
+fix: resolver problema de exibição em dispositivos móveis
+fix: resolver erro de carregamento de dados na API
+
+fix: corrigir quebra de linha em mensagens de aviso
+reorganizar estruturas e pastas 
+style: padronizar formatação e indentação do código
+docs: atualizar README com instruções de instalação`
